@@ -147,9 +147,10 @@ This project is part of a probability and statistics course, demonstrating pract
 - Monte Carlo methods
 - Interactive data visualization
 
-## Author
+## Authors
 
 Vlad Ionescu - Computer Science Student
+
 Antonio Grosu - Computer Science Student
 
 ## License
